@@ -1,0 +1,60 @@
+{
+  "uid" : "146b4bc2788429cc",
+  "name" : "Test_Login.test_login[test_login_01-18914761088-guowenjun520-1-None-\\u6211\\u7684\\u4f18\\u60e0\\u5238]",
+  "fullName" : "test_login.Test_Login.test_login[test_login_01-18914761088-guowenjun520-1-None-\\u6211\\u7684\\u4f18\\u60e0\\u5238]",
+  "historyId" : "e7bbb74662aa9ae7c3abe1700812c8f7",
+  "time" : {
+    "start" : 1540079295667,
+    "stop" : 1540079330661,
+    "duration" : 34994
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-J30C3RS"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "11860-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "testClass",
+    "value" : "test_login"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_Login.test_login[test_login_01-18914761088-guowenjun520-1-None-\\u6211\\u7684\\u4f18\\u60e0\\u5238]"
+  }, {
+    "name" : "package",
+    "value" : "test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "146b4bc2788429cc.json",
+  "parameterValues" : [ ]
+}

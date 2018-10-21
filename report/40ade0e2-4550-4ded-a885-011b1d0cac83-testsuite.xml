@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1540107455549" stop="1540107543960">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1540107455549" status="passed" stop="1540107493540">
+      <name>Test_Login.test_login[test_login_01-18914761088-guowenjun520-1-None-\u6211\u7684\u4f18\u60e0\u5238]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12524-MainThread"/>
+        <label name="host" value="DESKTOP-J30C3RS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1540107493542" status="passed" stop="1540107517198">
+      <name>Test_Login.test_login[test_login_02- 18914761088-guowenjun520-1-None-\u6211\u7684\u4f18\u60e0\u5238]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12524-MainThread"/>
+        <label name="host" value="DESKTOP-J30C3RS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1540107517199" status="passed" stop="1540107543960">
+      <name>Test_Login.test_login[test_login_03-18914761088 -guowenjun520-1-None-\u6211\u7684\u4f18\u60e0\u5238]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="12524-MainThread"/>
+        <label name="host" value="DESKTOP-J30C3RS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

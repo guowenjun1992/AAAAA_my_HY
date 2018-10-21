@@ -1,0 +1,25 @@
+test_login_01:
+  phone: "18914761088"
+  passwd: "guowenjun520"
+  expect_requst: "我的优惠券"
+  tag: 1
+test_login_02:
+  phone: " 18914761088"
+  passwd: "guowenjun520"
+  expect_requst: "我的优惠券"
+  tag: 1
+test_login_03:
+  phone: "18914761088 "
+  passwd: "guowenjun520"
+  expect_requst: "我的优惠券"
+  tag: 1
+#test_login_04:
+#  phone: "18914761088 "
+#  passwd: "guowenjun"
+#  tag_message: "密码错误"
+#  expect_requst: "登录密码错误"
+#test_login_05:
+#  phone: "12914761088 "
+#  passwd: "guowenjun"
+#  tag_message: "此用户"
+#  expect_requst: "此用户不存在"
